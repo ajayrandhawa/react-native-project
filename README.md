@@ -1,11 +1,10 @@
 # react-native-project
 
 
-npm install -g expo-cli
+1. npm install -g expo-cli
 
-# install dependencies
-npm install
-```
+2. npm install
 
-# run project
-expo start
+3. expo start
+
+Datafile : data.json
