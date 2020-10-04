@@ -1,0 +1,67 @@
+[
+    {
+      "header": [
+        {
+          "id": 0,
+          "image": "https://www.opelgtsource.com/assets/default_product.png",
+          "type" : "Featured"
+        },
+        {
+          "id": 1,
+          "image": "https://www.opelgtsource.com/assets/default_product.png",
+          "type" : "Featured"
+        },
+        {
+          "id": 2,
+          "image": "https://www.opelgtsource.com/assets/default_product.png",
+          "type" : "Featured"
+        },
+        {
+          "id": 3,
+          "image": "https://www.opelgtsource.com/assets/default_product.png",
+          "type" : "Featured"
+        },
+        {
+          "id": 4,
+          "image": "https://www.opelgtsource.com/assets/default_product.png",
+          "type" : "Featured"
+        }
+      ],
+      "body": [
+        {
+          "id": 0,
+          "image": "https://www.opelgtsource.com/assets/default_product.png",
+          "productname" : "Product-1"
+        },
+        {
+          "id": 1,
+          "image": "https://www.opelgtsource.com/assets/default_product.png",
+          "productname" : "Product-2"
+        },
+        {
+          "id": 2,
+          "image": "https://www.opelgtsource.com/assets/default_product.png",
+          "productname" : "Product-3"
+        },
+        {
+          "id": 3,
+          "image": "https://www.opelgtsource.com/assets/default_product.png",
+          "productname" : "Product-4"
+        }
+        ,
+        {
+          "id": 4,
+          "image": "https://www.opelgtsource.com/assets/default_product.png",
+          "productname" : "Product-5"
+        }
+        ,
+        {
+          "id": 5,
+          "image": "https://www.opelgtsource.com/assets/default_product.png",
+          "productname" : "Product-6"
+        }
+      ],
+      "banner" : "https://jollity.in/acrade/wp-content/themes/Lights/images/product_img/default.jpg",
+      "display": "grid"
+    }
+  ]
